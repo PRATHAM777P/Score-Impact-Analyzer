@@ -54,8 +54,6 @@
 - `67f2aae2c084263d16dbe462user_attempt_v2.json` — Student 1 (anonymized)
 - `66fece285a916f0bb5aea9c5user_attempt_v3.json` — Student 2 (anonymized)
 
-> **Note:** Data is loaded automatically into MongoDB on first run. Remove or anonymize any PII before uploading to GitHub.
-
 ---
 
 ## 🛠️ Usage
