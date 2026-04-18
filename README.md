@@ -312,7 +312,7 @@ Please make sure your code passes `flake8` and includes appropriate tests.
 
 ## 📄 License
 
-[MIT](LICENSE) © 2025 — Score Impact Analyzer contributors
+[MIT](LICENSE) © 2026 — Score Impact Analyzer contributors
 
 ---
 
