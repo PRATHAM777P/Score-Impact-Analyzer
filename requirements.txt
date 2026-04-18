@@ -1,1 +1,33 @@
-pymongo 
+# ─────────────────────────────────────────────────────────────────────────────
+#  Score Impact Analyzer — requirements.txt
+#  Pin ALL versions for reproducible installs.
+#  Regenerate with: pip freeze > requirements.txt  (inside your .venv)
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Database
+pymongo==4.7.2
+dnspython==2.6.1          # Required for mongodb+srv:// URIs (MongoDB Atlas)
+
+# Environment & Configuration
+python-dotenv==1.0.1
+
+# Data validation
+jsonschema==4.22.0
+
+# CLI
+argparse==1.4.0
+
+# Reporting / Export
+tabulate==0.9.0            # Pretty-print tables in terminal output
+
+# Security auditing (dev)
+pip-audit==2.7.3
+
+# ─── Optional / Dev ───────────────────────────────────────────────────────────
+# Uncomment if running tests:
+# pytest==8.2.2
+# pytest-cov==5.0.0
+
+# Uncomment for linting:
+# flake8==7.0.0
+# ruff==0.4.5
