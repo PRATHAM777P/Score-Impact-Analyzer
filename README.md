@@ -137,7 +137,7 @@ score-impact-analyzer/
 
 ```bash
 # 1. Clone
-git clone https://github.com/your-username/score-impact-analyzer.git
+git clone https://github.com/PRATHAM777P/score-impact-analyzer.git
 cd score-impact-analyzer
 
 # 2. Create a virtual environment (strongly recommended)
